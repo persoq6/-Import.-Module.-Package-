@@ -7,4 +7,4 @@ if __name__ == "__main__":
     get_employees()
     calculate_salary()
     print(datetime.today())
-print(__name__)
+# print(__name__)
